@@ -21,7 +21,7 @@
   Tools & Platforms
   
   📊 GitHub Stats
-  <div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dpronzzz%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue" height="180" alt="stats graph"  /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dpronzzz%26layout%3Dcompact%26theme%3Dradical" height="180" alt="languages graph" /></div>
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?pronzzz&show_icons=true&theme=radical" height="180" alt="stats graph"  /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dpronzzz%26layout%3Dcompact%26theme%3Dradical" height="180" alt="languages graph" /></div>
   
   <div align="center"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dpronzzz%26theme%3Dradical" alt="streak graph" /></div>
   
