@@ -42,6 +42,10 @@ const pranav = {
   <img src="https://streak-stats.demolab.com/?user=pronzzz&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pronzzz&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
 ### 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
