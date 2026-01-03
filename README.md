@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media1.tenor.com/m/2COB_wl5r6AAAAAC/cat-hacker.gif" width="600" height="300"/>
   
   <h1>Hi there, I'm Pranav Dwivedi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
@@ -34,12 +34,12 @@ const pranav = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pronzzz&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pronzzz&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronzzz&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pronzzz&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=pronzzz&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 
 ### 🏆 Featured Projects
@@ -57,4 +57,5 @@ const pranav = {
 <!--END_SECTION:activity-->
 
 <div align="center"><i>Let's connect and build something amazing together!</i></div>
+
 
