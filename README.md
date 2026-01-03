@@ -31,6 +31,12 @@ const pranav = {
 };
 ```
 
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pronzzz&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
+</div>
+
 ### 📊 GitHub Stats
 
 <div align="center">
