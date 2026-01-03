@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/2COB_wl5r6AAAAAC/cat-hacker.gif" width="600" height="300"/>
+  <img src="assets/hacker-cat.gif" width="600" height="300"/>
   
   <h1>Hi there, I'm Pranav Dwivedi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
