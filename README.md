@@ -65,11 +65,11 @@ const pranav = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.1 - Mobile UI Fixes](https://github.com/pronzzz/mirrorlab/releases/tag/v1.1.1) in [pronzzz/mirrorlab](https://github.com/pronzzz/mirrorlab)
-2. 🚀 Published release [v1.1.0 -  Bug Fixes + Features](https://github.com/pronzzz/mirrorlab/releases/tag/v1.1.0) in [pronzzz/mirrorlab](https://github.com/pronzzz/mirrorlab)
-3. 🚀 Published release [v1.0.0 - The Browser-Based Digital Darkroom 📸](https://github.com/pronzzz/mirrorlab/releases/tag/v1.0.0) in [pronzzz/mirrorlab](https://github.com/pronzzz/mirrorlab)
-4. 🎉 Merged PR [#2](https://github.com/pronzzz/pranavdwivedi.dev/pull/2) in [pronzzz/pranavdwivedi.dev](https://github.com/pronzzz/pranavdwivedi.dev)
-5. 💪 Opened PR [#2](https://github.com/pronzzz/pranavdwivedi.dev/pull/2) in [pronzzz/pranavdwivedi.dev](https://github.com/pronzzz/pranavdwivedi.dev)
+1. ℹ️ Assigned PR [#1](https://github.com/pronzzz/awesome-android-foss/pull/1) in [pronzzz/awesome-android-foss](https://github.com/pronzzz/awesome-android-foss)
+2. 🚀 Published release [v1.1.1 - Mobile UI Fixes](https://github.com/pronzzz/mirrorlab/releases/tag/v1.1.1) in [pronzzz/mirrorlab](https://github.com/pronzzz/mirrorlab)
+3. 🚀 Published release [v1.1.0 -  Bug Fixes + Features](https://github.com/pronzzz/mirrorlab/releases/tag/v1.1.0) in [pronzzz/mirrorlab](https://github.com/pronzzz/mirrorlab)
+4. 🚀 Published release [v1.0.0 - The Browser-Based Digital Darkroom 📸](https://github.com/pronzzz/mirrorlab/releases/tag/v1.0.0) in [pronzzz/mirrorlab](https://github.com/pronzzz/mirrorlab)
+5. 🎉 Merged PR [#2](https://github.com/pronzzz/pranavdwivedi.dev/pull/2) in [pronzzz/pranavdwivedi.dev](https://github.com/pronzzz/pranavdwivedi.dev)
 <!--END_SECTION:activity-->
 
 <div align="center"><i>Let's connect and build something amazing together!</i></div>
