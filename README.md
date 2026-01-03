@@ -9,6 +9,16 @@
   
   <p><b>AI & ML Enthusiast | Data Scientist | Computer Vision Developer</b></p>
   
+  <div align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=pronzzz&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
+      <br/>
+      <img src="https://streak-stats.demolab.com/?user=pronzzz&theme=radical&hide_border=true" alt="streak graph" />
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=pronzzz&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </div>
+
+  <br/>
+
   <a href="https://linkedin.com/in/pranavdwivedi0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://pranav-dwivedi.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -31,25 +41,10 @@ const pranav = {
 };
 ```
 
-### 🏆 Achievements
+### 📊 GitHub Data
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pronzzz&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pronzzz&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronzzz&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=pronzzz&theme=radical&hide_border=true" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pronzzz&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://github.com/pronzzz/pronzzz/blob/main/github-metrics.svg" alt="General Stats" width="100%"/>
 </div>
 
 ### 🏆 Featured Projects
@@ -60,6 +55,12 @@ const pranav = {
 | **[Fingerprint Classification](https://github.com/pronzzz/fingerprint-classification)** | Biometric classification system using Deep Learning & Socofing dataset. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![CV](https://img.shields.io/badge/CV-5C3EE8?logo=opencv&logoColor=white) |
 | **[Monero Mining](https://github.com/pronzzz/monero-mining)** | Optimized Monero crypto mining setup on Raspberry Pi 3B+. | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![IoT](https://img.shields.io/badge/IoT-009688?logo=arduino&logoColor=white) |
 | **[Stock Price Prediction](https://github.com/pronzzz/stock-price-prediction)** | Financial forecasting models using historical market data. | ![Sklearn](https://img.shields.io/badge/Sklearn-F7931E?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) |
+
+### 💻 Language Metrics
+
+<div align="center">
+  <img src="https://github.com/pronzzz/pronzzz/blob/main/languages.svg" alt="Top Languages" width="100%"/>
+</div>
 
 ### ⚡ Recent Activity
 
