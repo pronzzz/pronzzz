@@ -65,11 +65,11 @@ const pranav = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [FlowPrompt v1.0.0](https://github.com/pronzzz/flowprompt/releases/tag/v1.0.0) in [pronzzz/flowprompt](https://github.com/pronzzz/flowprompt)
-2. 🚀 Published release [Added Animations & Styling](https://github.com/pronzzz/mirrorlab/releases/tag/v1.2.0) in [pronzzz/mirrorlab](https://github.com/pronzzz/mirrorlab)
-3. 💪 Opened PR [#291](https://github.com/a16z-infra/ai-town/pull/291) in [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town)
-4. 🚀 Published release [Fixes & Infrastructure Update](https://github.com/pronzzz/gbaforge/releases/tag/v0.1.1) in [pronzzz/gbaforge](https://github.com/pronzzz/gbaforge)
-5. ℹ️ Assigned PR [#1](https://github.com/pronzzz/awesome-android-foss/pull/1) in [pronzzz/awesome-android-foss](https://github.com/pronzzz/awesome-android-foss)
+1. 🚀 Published release [ZenPad v1.0.0](https://github.com/pronzzz/zenpad/releases/tag/v1.0.0) in [pronzzz/zenpad](https://github.com/pronzzz/zenpad)
+2. 🚀 Published release [FlowPrompt v1.0.0](https://github.com/pronzzz/flowprompt/releases/tag/v1.0.0) in [pronzzz/flowprompt](https://github.com/pronzzz/flowprompt)
+3. 🚀 Published release [Added Animations & Styling](https://github.com/pronzzz/mirrorlab/releases/tag/v1.2.0) in [pronzzz/mirrorlab](https://github.com/pronzzz/mirrorlab)
+4. 💪 Opened PR [#291](https://github.com/a16z-infra/ai-town/pull/291) in [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town)
+5. 🚀 Published release [Fixes & Infrastructure Update](https://github.com/pronzzz/gbaforge/releases/tag/v0.1.1) in [pronzzz/gbaforge](https://github.com/pronzzz/gbaforge)
 <!--END_SECTION:activity-->
 
 <div align="center"><i>Let's connect and build something amazing together!</i></div>
