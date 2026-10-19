@@ -71,7 +71,7 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [PocketPod v1.0.0-alpha01](https://github.com/pronzzz/PocketPod/releases/tag/v1.0.0-alpha01) in [pronzzz/PocketPod](https://github.com/pronzzz/PocketPod)
+1. 🚀 Published release [Monarch 1.0.0](https://github.com/pronzzz/monarch/releases/tag/v1.0.0) in [pronzzz/monarch](https://github.com/pronzzz/monarch)
 2. 🚀 Published release [Puffwheel Alpha 0.1.0 (Initial Release)](https://github.com/pronzzz/Puffwheel/releases/tag/v0.1.0-alpha) in [pronzzz/Puffwheel](https://github.com/pronzzz/Puffwheel)
 3. 🚀 Published release [Inkflow v1.0.0 Release Notes](https://github.com/pronzzz/inkflow/releases/tag/v1.0.0) in [pronzzz/inkflow](https://github.com/pronzzz/inkflow)
 4. 🚀 Published release [ZenPad v1.0.0](https://github.com/pronzzz/zenpad/releases/tag/v1.0.0) in [pronzzz/zenpad](https://github.com/pronzzz/zenpad)
