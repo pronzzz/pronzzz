@@ -38,6 +38,8 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          # GitHub answers 202 (still computing) on the first contributor-stats request; query again after a pause
+          plugin_lines_delay: 30
 
       - uses: lowlighter/metrics@latest
         name: Update language stats
