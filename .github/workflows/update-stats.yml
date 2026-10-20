@@ -55,7 +55,5 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
-          # mozzaic has a committed virtualenv (~55 MB of vendored Python) that drowns out every other language
-          plugin_languages_skipped: mozzaic
           plugin_languages_ignored: c#, glsl, c
           plugin_languages_indepth: no
