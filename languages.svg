@@ -1,139 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="166" class="">
-    <defs>
-        <style/>
-    </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
-    <style/>
-    <foreignObject x="0" y="0" width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                    </svg>
-                    14 Languages
-                </h2>
-            </section>
-            <section class="column">
-                <h3 class="field">Most used languages</h3>
-                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
-                    <mask id="languages-bar">
-                        <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
-                    </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="379.31753639386835" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="379.31753639386835" y="0" width="36.80009506407353" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="416.1176314579419" y="0" width="20.090603639645163" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.2082350975871" y="0" width="10.067681487132766" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="446.2759165847199" y="0" width="6.118561432574256" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="452.39447801729415" y="0" width="2.6934820833498376" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.08796010064395" y="0" width="2.607132216560093" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.6950923172041" y="0" width="2.304907682795986" height="8" fill="#DA3434"/>
-                </svg>
-                <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Python
-                            </div>
-                            <small>
-                                <div>957 kB</div>
-                                <div>82.46%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JavaScript
-                            </div>
-                            <small>
-                                <div>50.7 kB</div>
-                                <div>4.37%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                CSS
-                            </div>
-                            <small>
-                                <div>15.4 kB</div>
-                                <div>1.33%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                HTML
-                            </div>
-                            <small>
-                                <div>6.58 kB</div>
-                                <div>0.57%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Dart
-                            </div>
-                            <small>
-                                <div>92.9 kB</div>
-                                <div>8%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Rust
-                            </div>
-                            <small>
-                                <div>25.4 kB</div>
-                                <div>2.19%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Shell
-                            </div>
-                            <small>
-                                <div>6.80 kB</div>
-                                <div>0.59%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                CMake
-                            </div>
-                            <small>
-                                <div>5.82 kB</div>
-                                <div>0.5%</div>
-                            </small>
-                        </div>
-                    </section>
-                </div>
-            </section>
-        </div>
-        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
-    </foreignObject>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="238" viewBox="0 0 480 238" role="img" aria-label="Most used languages">
+  <style>
+    .card { fill: #ffffff; stroke: #d0d7de; }
+    .title { font: 600 17px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #2196F3; }
+    .sub { font: 400 12px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #57606a; }
+    .label { font: 400 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #57606a; }
+    .value { font: 600 14px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .rule { stroke: #d8dee4; }
+    @media (prefers-color-scheme: dark) {
+      .card { fill: #0d1117; stroke: #30363d; }
+      .sub, .label { fill: #8d96a0; }
+      .value { fill: #e6edf3; }
+      .rule { stroke: #21262d; }
+    }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="479" height="237" rx="10"/>
+  <text class="title" x="25" y="34">Most Used Languages</text>
+  <text class="sub" x="25" y="52">By bytes of code across 97 repositories</text>
+  <clipPath id="bar"><rect x="25" y="66" width="430" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#bar)"><rect x="25.00" y="66" width="141.12" height="10" fill="#A97BFF"/><rect x="166.12" y="66" width="138.27" height="10" fill="#3572A5"/><rect x="304.39" y="66" width="74.79" height="10" fill="#3178c6"/><rect x="379.17" y="66" width="35.61" height="10" fill="#F05138"/><rect x="414.79" y="66" width="17.44" height="10" fill="#f1e05a"/><rect x="432.23" y="66" width="8.47" height="10" fill="#e34c26"/><rect x="440.70" y="66" width="8.37" height="10" fill="#dea584"/><rect x="449.07" y="66" width="5.93" height="10" fill="#00B4AB"/></g>
+  <circle cx="30" cy="100" r="5" fill="#A97BFF"/><text class="value" x="41" y="104">Kotlin</text><text class="label" x="230" y="104" text-anchor="end">32.8% · 2.1 MB</text><circle cx="255" cy="100" r="5" fill="#3572A5"/><text class="value" x="266" y="104">Python</text><text class="label" x="455" y="104" text-anchor="end">32.2% · 2.1 MB</text><circle cx="30" cy="126" r="5" fill="#3178c6"/><text class="value" x="41" y="130">TypeScript</text><text class="label" x="230" y="130" text-anchor="end">17.4% · 1.1 MB</text><circle cx="255" cy="126" r="5" fill="#F05138"/><text class="value" x="266" y="130">Swift</text><text class="label" x="455" y="130" text-anchor="end">8.3% · 545.2 kB</text><circle cx="30" cy="152" r="5" fill="#f1e05a"/><text class="value" x="41" y="156">JavaScript</text><text class="label" x="230" y="156" text-anchor="end">4.1% · 267.0 kB</text><circle cx="255" cy="152" r="5" fill="#e34c26"/><text class="value" x="266" y="156">HTML</text><text class="label" x="455" y="156" text-anchor="end">2.0% · 129.7 kB</text><circle cx="30" cy="178" r="5" fill="#dea584"/><text class="value" x="41" y="182">Rust</text><text class="label" x="230" y="182" text-anchor="end">1.9% · 128.2 kB</text><circle cx="255" cy="178" r="5" fill="#00B4AB"/><text class="value" x="266" y="182">Dart</text><text class="label" x="455" y="182" text-anchor="end">1.4% · 90.7 kB</text>
 </svg>

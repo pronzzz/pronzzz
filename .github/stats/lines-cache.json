@@ -1,0 +1,390 @@
+{
+  "BERT-Text-Classification": {
+    "added": 2145,
+    "removed": 833
+  },
+  "Discipline": {
+    "added": 8152,
+    "removed": 0
+  },
+  "Fingerprint-classification": {
+    "added": 2261,
+    "removed": 226
+  },
+  "GhostInTheShell-mcp": {
+    "added": 2541,
+    "removed": 0
+  },
+  "Gradio-AI-Chatbot": {
+    "added": 290,
+    "removed": 7
+  },
+  "Pi-hole-on-a-Raspberry-Pi-B-ARMv6": {
+    "added": 569,
+    "removed": 275
+  },
+  "PlaylistHydra": {
+    "added": 9046,
+    "removed": 18
+  },
+  "PocketPod": {
+    "added": 3414,
+    "removed": 1265
+  },
+  "RAGnarok": {
+    "added": 1832,
+    "removed": 0
+  },
+  "aegis": {
+    "added": 2169,
+    "removed": 1
+  },
+  "algo-viz": {
+    "added": 6630,
+    "removed": 188
+  },
+  "atomgpt": {
+    "added": 2383,
+    "removed": 0
+  },
+  "aura": {
+    "added": 7078,
+    "removed": 25
+  },
+  "awesome-android-foss": {
+    "added": 2082,
+    "removed": 305
+  },
+  "backdrop-bandits": {
+    "added": 1434,
+    "removed": 0
+  },
+  "baremetal-react": {
+    "added": 742,
+    "removed": 11
+  },
+  "blood-donation": {
+    "added": 525,
+    "removed": 2
+  },
+  "booktures": {
+    "added": 4566,
+    "removed": 0
+  },
+  "braintube": {
+    "added": 853,
+    "removed": 0
+  },
+  "canvasso": {
+    "added": 22914,
+    "removed": 1124
+  },
+  "car-price-prediction": {
+    "added": 960,
+    "removed": 0
+  },
+  "credit-card-approval-detection": {
+    "added": 11839,
+    "removed": 0
+  },
+  "currencyconverter": {
+    "added": 312,
+    "removed": 47
+  },
+  "deepsteer-vis": {
+    "added": 761,
+    "removed": 0
+  },
+  "diabetes-prediction": {
+    "added": 16881,
+    "removed": 391
+  },
+  "docxformnet": {
+    "added": 1160,
+    "removed": 0
+  },
+  "earthquake-prediction": {
+    "added": 3670,
+    "removed": 0
+  },
+  "elusive-polyps-detection": {
+    "added": 1233,
+    "removed": 0
+  },
+  "emu": {
+    "added": 0,
+    "removed": 0
+  },
+  "face-detection": {
+    "added": 0,
+    "removed": 0
+  },
+  "face-mask-detection": {
+    "added": 2324,
+    "removed": 3
+  },
+  "firewordle": {
+    "added": 4863,
+    "removed": 84
+  },
+  "flowart": {
+    "added": 0,
+    "removed": 0
+  },
+  "flowprompt": {
+    "added": 3110,
+    "removed": 57
+  },
+  "fluxbeat": {
+    "added": 2318,
+    "removed": 0
+  },
+  "focusflow": {
+    "added": 1780,
+    "removed": 0
+  },
+  "fuel-effeciency-prediction": {
+    "added": 3885,
+    "removed": 0
+  },
+  "gbaforge": {
+    "added": 10652,
+    "removed": 1304
+  },
+  "global-arcade": {
+    "added": 5908,
+    "removed": 4
+  },
+  "graphiteai": {
+    "added": 3304,
+    "removed": 1
+  },
+  "hello-world": {
+    "added": 3,
+    "removed": 0
+  },
+  "hermitmail": {
+    "added": 1462,
+    "removed": 8
+  },
+  "hidden-interface-rendering-system": {
+    "added": 641,
+    "removed": 0
+  },
+  "homeovault": {
+    "added": 1974,
+    "removed": 0
+  },
+  "inkflow": {
+    "added": 5133,
+    "removed": 22
+  },
+  "jarvis-v": {
+    "added": 0,
+    "removed": 0
+  },
+  "json-titan": {
+    "added": 1749,
+    "removed": 0
+  },
+  "kernel-architect": {
+    "added": 3906,
+    "removed": 0
+  },
+  "lane-detection": {
+    "added": 611,
+    "removed": 0
+  },
+  "learning-tracker": {
+    "added": 3151,
+    "removed": 486
+  },
+  "ledgerllama": {
+    "added": 11158,
+    "removed": 0
+  },
+  "linkforge-mcp": {
+    "added": 3602,
+    "removed": 0
+  },
+  "llm-search-engine": {
+    "added": 533,
+    "removed": 0
+  },
+  "m.got": {
+    "added": 2069,
+    "removed": 5
+  },
+  "mirrorlab": {
+    "added": 47880,
+    "removed": 22055
+  },
+  "monarch": {
+    "added": 12217,
+    "removed": 143
+  },
+  "monero-mining": {
+    "added": 2402,
+    "removed": 33
+  },
+  "movie-recommendation-system": {
+    "added": 4419,
+    "removed": 0
+  },
+  "mozzaic": {
+    "added": 0,
+    "removed": 0
+  },
+  "navzfolio": {
+    "added": 6647,
+    "removed": 806
+  },
+  "neuronest-mcp": {
+    "added": 2730,
+    "removed": 0
+  },
+  "object-detection-model": {
+    "added": 6077,
+    "removed": 3192
+  },
+  "pest-prediction-detection": {
+    "added": 0,
+    "removed": 0
+  },
+  "plant-disease-detection": {
+    "added": 3248,
+    "removed": 25
+  },
+  "posties": {
+    "added": 17606,
+    "removed": 174
+  },
+  "pranavdwivedi.dev": {
+    "added": 7652,
+    "removed": 66
+  },
+  "prismNLG": {
+    "added": 1215,
+    "removed": 0
+  },
+  "prismify": {
+    "added": 7861,
+    "removed": 0
+  },
+  "pronzzz": {
+    "added": 637,
+    "removed": 274
+  },
+  "questlog": {
+    "added": 327,
+    "removed": 0
+  },
+  "red-wine-quality": {
+    "added": 14189,
+    "removed": 111
+  },
+  "retinaguard": {
+    "added": 706,
+    "removed": 0
+  },
+  "reverse-image-lodging": {
+    "added": 4043,
+    "removed": 0
+  },
+  "ringsathi": {
+    "added": 0,
+    "removed": 0
+  },
+  "roastify": {
+    "added": 8927,
+    "removed": 99
+  },
+  "robotic-manipulator": {
+    "added": 901,
+    "removed": 317
+  },
+  "roms": {
+    "added": 0,
+    "removed": 0
+  },
+  "scalable-telegram-bot": {
+    "added": 463,
+    "removed": 0
+  },
+  "signifyai": {
+    "added": 1571,
+    "removed": 3
+  },
+  "simplevault": {
+    "added": 1174,
+    "removed": 0
+  },
+  "stock_price_prediction": {
+    "added": 44935,
+    "removed": 5597
+  },
+  "sudoai": {
+    "added": 5716,
+    "removed": 1
+  },
+  "super-mario-agent": {
+    "added": 3775,
+    "removed": 1472
+  },
+  "syntaxsensei": {
+    "added": 7886,
+    "removed": 0
+  },
+  "sysarch-interactive": {
+    "added": 5523,
+    "removed": 6
+  },
+  "time-machine": {
+    "added": 2498,
+    "removed": 19
+  },
+  "trailflow": {
+    "added": 20944,
+    "removed": 75
+  },
+  "trend-intelligence-system": {
+    "added": 1059,
+    "removed": 0
+  },
+  "tubesage": {
+    "added": 7416,
+    "removed": 263
+  },
+  "vajrachain": {
+    "added": 2357,
+    "removed": 0
+  },
+  "wasabigit": {
+    "added": 438,
+    "removed": 3
+  },
+  "weather-prediction": {
+    "added": 676,
+    "removed": 1
+  },
+  "willyoubemyvalentine": {
+    "added": 169,
+    "removed": 70
+  },
+  "zenmonitor": {
+    "added": 1344,
+    "removed": 2
+  },
+  "zenpad": {
+    "added": 8596,
+    "removed": 0
+  },
+  "zeta": {
+    "added": 10954,
+    "removed": 1575
+  },
+  "zipwizard": {
+    "added": 4584,
+    "removed": 0
+  }
+}

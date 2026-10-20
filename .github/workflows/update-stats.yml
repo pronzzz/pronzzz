@@ -7,9 +7,10 @@ on:
   push:
     branches:
       - main
-    # Only re-render when the metrics config itself changes, not on every README edit
+    # Only re-render when the generator or its config changes, not on every README edit
     paths:
       - .github/workflows/update-stats.yml
+      - scripts/generate_stats.py
 
 # Share one queue with the activity workflow so the two never push to main at the same time
 concurrency:
@@ -20,40 +21,27 @@ permissions:
   contents: write
 
 jobs:
-  metrics:
+  stats:
     runs-on: ubuntu-latest
     steps:
-      # Steps run sequentially in one job, so the metrics image is pulled once and the two commits can't race
-      - uses: lowlighter/metrics@latest
-        name: Update general stats
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics.svg
-          # GitHub's GraphQL API times out (502) on the default batch of 100 repositories,
-          # which metrics swallowed and rendered as 0 stars / 0 releases / 0 lines
-          repositories_batch: 25
-          plugins_errors_fatal: yes
-          base: header, repositories
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
-          # GitHub answers 202 (still computing) on the first contributor-stats request; query again after a pause
-          plugin_lines_delay: 30
-          # ringsathi had a one-off bulk deletion of ~4.3M lines of data that swamps the real total
-          plugin_lines_skipped: ringsathi
+      - uses: actions/checkout@v5
 
-      - uses: lowlighter/metrics@latest
-        name: Update language stats
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: languages.svg
-          repositories_batch: 25
-          plugins_errors_fatal: yes
-          base: ""
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-          plugin_languages_ignored: c#, glsl, c
-          plugin_languages_indepth: no
+      # Renders github-metrics.svg and languages.svg; fails instead of drawing partial data
+      - name: Generate stats cards
+        env:
+          # PAT with repo scope so private repos count toward totals (their names are never shown)
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python3 scripts/generate_stats.py
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg languages.svg .github/stats/lines-cache.json
+          if git diff --cached --quiet; then
+            echo "Stats unchanged"
+          else
+            git commit -m "📊 Update stats cards"
+            git pull --rebase origin main
+            git push
+          fi
