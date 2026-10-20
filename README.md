@@ -265,10 +265,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Monarch 1.0.0](https://github.com/pronzzz/monarch/releases/tag/v1.0.0) in [pronzzz/monarch](https://github.com/pronzzz/monarch)
-2. 🚀 Published release [Inkflow v1.0.0 Release Notes](https://github.com/pronzzz/inkflow/releases/tag/v1.0.0) in [pronzzz/inkflow](https://github.com/pronzzz/inkflow)
-3. 🚀 Published release [ZenPad v1.0.0](https://github.com/pronzzz/zenpad/releases/tag/v1.0.0) in [pronzzz/zenpad](https://github.com/pronzzz/zenpad)
-4. 🚀 Published release [FlowPrompt v1.0.0](https://github.com/pronzzz/flowprompt/releases/tag/v1.0.0) in [pronzzz/flowprompt](https://github.com/pronzzz/flowprompt)
+1. 💪 Opened PR [#1](https://github.com/pronzzz/Wheelhouse/pull/1) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
+2. 🎉 Merged PR [#3](https://github.com/pronzzz/awesome-android-foss/pull/3) in [pronzzz/awesome-android-foss](https://github.com/pronzzz/awesome-android-foss)
+3. 💪 Opened PR [#3](https://github.com/pronzzz/awesome-android-foss/pull/3) in [pronzzz/awesome-android-foss](https://github.com/pronzzz/awesome-android-foss)
+4. ❌ Closed PR [#2](https://github.com/pronzzz/awesome-android-foss/pull/2) in [pronzzz/awesome-android-foss](https://github.com/pronzzz/awesome-android-foss)
 <!--END_SECTION:activity-->
 
 <div align="center"><i>Let's connect and build something amazing together!</i></div>
