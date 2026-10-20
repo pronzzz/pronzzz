@@ -40,6 +40,8 @@ jobs:
           plugin_lines_sections: base
           # GitHub answers 202 (still computing) on the first contributor-stats request; query again after a pause
           plugin_lines_delay: 30
+          # ringsathi had a one-off bulk deletion of ~4.3M lines of data that swamps the real total
+          plugin_lines_skipped: ringsathi
 
       - uses: lowlighter/metrics@latest
         name: Update language stats
