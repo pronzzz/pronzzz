@@ -1,12 +1,17 @@
 name: Update GitHub Activity
 
-permissions:
-  contents: write
-
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "17 */3 * * *"
   workflow_dispatch:
+
+# Share one queue with the stats workflow so the two never push to main at the same time
+concurrency:
+  group: profile-readme-update
+  cancel-in-progress: false
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -14,8 +19,8 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@v0.4.6
+      - uses: actions/checkout@v5
+      - uses: jamesgeorge007/github-activity-readme@v0.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:

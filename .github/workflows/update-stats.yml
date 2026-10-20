@@ -2,42 +2,56 @@ name: Update Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "23 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+    # Only re-render when the metrics config itself changes, not on every README edit
+    paths:
+      - .github/workflows/update-stats.yml
+
+# Share one queue with the activity workflow so the two never push to main at the same time
+concurrency:
+  group: profile-readme-update
+  cancel-in-progress: false
+
+permissions:
+  contents: write
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      # Steps run sequentially in one job, so the metrics image is pulled once and the two commits can't race
       - uses: lowlighter/metrics@latest
-        name: Update General Stats
+        name: Update general stats
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
+          # GitHub's GraphQL API times out (502) on the default batch of 100 repositories,
+          # which metrics swallowed and rendered as 0 stars / 0 releases / 0 lines
+          repositories_batch: 25
+          plugins_errors_fatal: yes
           base: header, repositories
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
 
-  languages-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
       - uses: lowlighter/metrics@latest
-        name: Update Language Stats
+        name: Update language stats
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: languages.svg
+          repositories_batch: 25
+          plugins_errors_fatal: yes
           base: ""
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
+          # mozzaic has a committed virtualenv (~55 MB of vendored Python) that drowns out every other language
+          plugin_languages_skipped: mozzaic
+          plugin_languages_ignored: c#, glsl, c
           plugin_languages_indepth: no
