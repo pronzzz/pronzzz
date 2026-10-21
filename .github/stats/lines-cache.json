@@ -27,13 +27,13 @@
     "added": 9046,
     "removed": 18
   },
-  "PocketPod": {
-    "added": 3414,
-    "removed": 1265
-  },
   "RAGnarok": {
     "added": 1832,
     "removed": 0
+  },
+  "Wheelhouse": {
+    "added": 3414,
+    "removed": 1265
   },
   "aegis": {
     "added": 2169,
@@ -52,8 +52,8 @@
     "removed": 25
   },
   "awesome-android-foss": {
-    "added": 2082,
-    "removed": 305
+    "added": 13981,
+    "removed": 3257
   },
   "backdrop-bandits": {
     "added": 1434,
@@ -248,7 +248,7 @@
     "removed": 3192
   },
   "pest-prediction-detection": {
-    "added": 0,
+    "added": 6025,
     "removed": 0
   },
   "plant-disease-detection": {
@@ -272,8 +272,8 @@
     "removed": 0
   },
   "pronzzz": {
-    "added": 637,
-    "removed": 274
+    "added": 1342,
+    "removed": 582
   },
   "questlog": {
     "added": 327,
