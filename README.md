@@ -265,10 +265,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/pronzzz/Wheelhouse/pull/1) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
-2. 🎉 Merged PR [#3](https://github.com/pronzzz/awesome-android-foss/pull/3) in [pronzzz/awesome-android-foss](https://github.com/pronzzz/awesome-android-foss)
-3. 💪 Opened PR [#3](https://github.com/pronzzz/awesome-android-foss/pull/3) in [pronzzz/awesome-android-foss](https://github.com/pronzzz/awesome-android-foss)
-4. ❌ Closed PR [#2](https://github.com/pronzzz/awesome-android-foss/pull/2) in [pronzzz/awesome-android-foss](https://github.com/pronzzz/awesome-android-foss)
+1. 🚀 Published release [Wheelhouse 1.0](https://github.com/pronzzz/Wheelhouse/releases/tag/v1.0.0) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
+2. 🎉 Merged PR [#1](https://github.com/pronzzz/Wheelhouse/pull/1) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
+3. 💪 Opened PR [#1](https://github.com/pronzzz/Wheelhouse/pull/1) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
+4. 🎉 Merged PR [#3](https://github.com/pronzzz/awesome-android-foss/pull/3) in [pronzzz/awesome-android-foss](https://github.com/pronzzz/awesome-android-foss)
 <!--END_SECTION:activity-->
 
 <div align="center"><i>Let's connect and build something amazing together!</i></div>
