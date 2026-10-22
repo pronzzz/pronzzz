@@ -265,10 +265,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Wheelhouse 1.0](https://github.com/pronzzz/Wheelhouse/releases/tag/v1.0.0) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
-2. 🎉 Merged PR [#1](https://github.com/pronzzz/Wheelhouse/pull/1) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
-3. 💪 Opened PR [#1](https://github.com/pronzzz/Wheelhouse/pull/1) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
-4. 🎉 Merged PR [#3](https://github.com/pronzzz/awesome-android-foss/pull/3) in [pronzzz/awesome-android-foss](https://github.com/pronzzz/awesome-android-foss)
+1. 🚀 Published release [MirrorLab 2.0 — rebuilt in Rust](https://github.com/pronzzz/mirrorlab/releases/tag/v2.0.0) in [pronzzz/mirrorlab](https://github.com/pronzzz/mirrorlab)
+2. 🚀 Published release [Wheelhouse 1.0](https://github.com/pronzzz/Wheelhouse/releases/tag/v1.0.0) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
+3. 🎉 Merged PR [#1](https://github.com/pronzzz/Wheelhouse/pull/1) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
+4. 💪 Opened PR [#1](https://github.com/pronzzz/Wheelhouse/pull/1) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
 <!--END_SECTION:activity-->
 
 <div align="center"><i>Let's connect and build something amazing together!</i></div>
