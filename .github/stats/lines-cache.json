@@ -80,12 +80,16 @@
     "removed": 0
   },
   "canvasso": {
-    "added": 24203,
-    "removed": 1157
+    "added": 25554,
+    "removed": 1306
   },
   "car-price-prediction": {
     "added": 960,
     "removed": 0
+  },
+  "conduit": {
+    "added": 10514,
+    "removed": 1441
   },
   "credit-card-approval-detection": {
     "added": 11839,
@@ -334,10 +338,6 @@
   "syntaxsensei": {
     "added": 7886,
     "removed": 0
-  },
-  "sysarch-interactive": {
-    "added": 5523,
-    "removed": 6
   },
   "time-machine": {
     "added": 2498,
