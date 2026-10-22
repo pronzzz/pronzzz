@@ -28,8 +28,8 @@
     "removed": 18
   },
   "Punchlist": {
-    "added": 3410,
-    "removed": 0
+    "added": 3593,
+    "removed": 12
   },
   "RAGnarok": {
     "added": 1832,
@@ -80,8 +80,8 @@
     "removed": 0
   },
   "canvasso": {
-    "added": 22914,
-    "removed": 1124
+    "added": 24203,
+    "removed": 1157
   },
   "car-price-prediction": {
     "added": 960,
@@ -162,10 +162,6 @@
   "graphiteai": {
     "added": 3304,
     "removed": 1
-  },
-  "hello-world": {
-    "added": 3,
-    "removed": 0
   },
   "hermitmail": {
     "added": 1462,
