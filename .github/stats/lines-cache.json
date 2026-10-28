@@ -80,8 +80,8 @@
     "removed": 0
   },
   "canvasso": {
-    "added": 25554,
-    "removed": 1306
+    "added": 28256,
+    "removed": 1622
   },
   "car-price-prediction": {
     "added": 960,
@@ -190,6 +190,10 @@
   "json-titan": {
     "added": 1749,
     "removed": 0
+  },
+  "keelson": {
+    "added": 2613,
+    "removed": 50
   },
   "kernel-architect": {
     "added": 3906,
