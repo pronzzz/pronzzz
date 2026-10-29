@@ -265,10 +265,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [ZenPad 2.0.0](https://github.com/pronzzz/zenpad/releases/tag/v2.0.0) in [pronzzz/zenpad](https://github.com/pronzzz/zenpad)
-2. 🚀 Published release [Aura 2.0.0](https://github.com/pronzzz/aura/releases/tag/v2.0.0) in [pronzzz/aura](https://github.com/pronzzz/aura)
-3. 🚀 Published release [MirrorLab 2.0 — rebuilt in Rust](https://github.com/pronzzz/mirrorlab/releases/tag/v2.0.0) in [pronzzz/mirrorlab](https://github.com/pronzzz/mirrorlab)
-4. 🚀 Published release [Wheelhouse 1.0](https://github.com/pronzzz/Wheelhouse/releases/tag/v1.0.0) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
+1. 🚀 Published release [Prismify 5.0.0](https://github.com/pronzzz/prismify/releases/tag/v5.0.0) in [pronzzz/prismify](https://github.com/pronzzz/prismify)
+2. 🚀 Published release [ZenPad 2.0.0](https://github.com/pronzzz/zenpad/releases/tag/v2.0.0) in [pronzzz/zenpad](https://github.com/pronzzz/zenpad)
+3. 🚀 Published release [Aura 2.0.0](https://github.com/pronzzz/aura/releases/tag/v2.0.0) in [pronzzz/aura](https://github.com/pronzzz/aura)
+4. 🚀 Published release [MirrorLab 2.0 — rebuilt in Rust](https://github.com/pronzzz/mirrorlab/releases/tag/v2.0.0) in [pronzzz/mirrorlab](https://github.com/pronzzz/mirrorlab)
 <!--END_SECTION:activity-->
 
 <div align="center"><i>Let's connect and build something amazing together!</i></div>
