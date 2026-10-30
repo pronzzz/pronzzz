@@ -135,10 +135,6 @@
     "added": 4863,
     "removed": 84
   },
-  "flowart": {
-    "added": 0,
-    "removed": 0
-  },
   "flowprompt": {
     "added": 3110,
     "removed": 57
@@ -150,6 +146,10 @@
   "focusflow": {
     "added": 1780,
     "removed": 0
+  },
+  "frankly": {
+    "added": 24839,
+    "removed": 15937
   },
   "fuel-effeciency-prediction": {
     "added": 3885,
@@ -166,6 +166,10 @@
   "graphiteai": {
     "added": 3304,
     "removed": 1
+  },
+  "halflight": {
+    "added": 16112,
+    "removed": 5168
   },
   "hermitmail": {
     "added": 1462,
@@ -243,10 +247,6 @@
     "added": 6004,
     "removed": 1013
   },
-  "navzfolio": {
-    "added": 6647,
-    "removed": 806
-  },
   "neuronest-mcp": {
     "added": 2730,
     "removed": 0
@@ -262,14 +262,6 @@
   "plant-disease-detection": {
     "added": 3248,
     "removed": 25
-  },
-  "posties": {
-    "added": 17606,
-    "removed": 174
-  },
-  "pranavdwivedi.dev": {
-    "added": 7652,
-    "removed": 66
   },
   "prismNLG": {
     "added": 1215,
@@ -367,6 +359,10 @@
     "added": 2357,
     "removed": 0
   },
+  "vernissage": {
+    "added": 0,
+    "removed": 0
+  },
   "wasabigit": {
     "added": 438,
     "removed": 3
@@ -378,6 +374,10 @@
   "willyoubemyvalentine": {
     "added": 169,
     "removed": 70
+  },
+  "workbench": {
+    "added": 15904,
+    "removed": 1934
   },
   "zenmonitor": {
     "added": 1344,
