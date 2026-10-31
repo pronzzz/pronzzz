@@ -23,10 +23,6 @@
     "added": 569,
     "removed": 275
   },
-  "PlaylistHydra": {
-    "added": 9046,
-    "removed": 18
-  },
   "Punchlist": {
     "added": 3593,
     "removed": 12
@@ -131,10 +127,6 @@
     "added": 2324,
     "removed": 3
   },
-  "firewordle": {
-    "added": 4863,
-    "removed": 84
-  },
   "flowprompt": {
     "added": 3110,
     "removed": 57
@@ -158,10 +150,6 @@
   "gbaforge": {
     "added": 10652,
     "removed": 1304
-  },
-  "global-arcade": {
-    "added": 5908,
-    "removed": 4
   },
   "graphiteai": {
     "added": 3304,
@@ -255,6 +243,10 @@
     "added": 6077,
     "removed": 3192
   },
+  "parlour": {
+    "added": 14424,
+    "removed": 4898
+  },
   "pest-prediction-detection": {
     "added": 6025,
     "removed": 0
@@ -323,6 +315,10 @@
     "added": 1174,
     "removed": 0
   },
+  "spool": {
+    "added": 16231,
+    "removed": 9034
+  },
   "stock_price_prediction": {
     "added": 44935,
     "removed": 5597
@@ -358,6 +354,10 @@
   "vajrachain": {
     "added": 2357,
     "removed": 0
+  },
+  "vernier": {
+    "added": 9337,
+    "removed": 3759
   },
   "vernissage": {
     "added": 0,
