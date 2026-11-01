@@ -265,10 +265,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Booktures 2.0.0: bring your own model](https://github.com/pronzzz/booktures/releases/tag/v2.0.0) in [pronzzz/booktures](https://github.com/pronzzz/booktures)
-2. 🚀 Published release [Prismify 5.0.0](https://github.com/pronzzz/prismify/releases/tag/v5.0.0) in [pronzzz/prismify](https://github.com/pronzzz/prismify)
-3. 🚀 Published release [ZenPad 2.0.0](https://github.com/pronzzz/zenpad/releases/tag/v2.0.0) in [pronzzz/zenpad](https://github.com/pronzzz/zenpad)
-4. 🚀 Published release [Aura 2.0.0](https://github.com/pronzzz/aura/releases/tag/v2.0.0) in [pronzzz/aura](https://github.com/pronzzz/aura)
+1. 🚀 Published release [Keelson 1.1.0](https://github.com/pronzzz/keelson/releases/tag/v1.1.0) in [pronzzz/keelson](https://github.com/pronzzz/keelson)
+2. 🚀 Published release [Wheelhouse 1.1.0](https://github.com/pronzzz/Wheelhouse/releases/tag/v1.1.0) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
+3. 🎉 Merged PR [#2](https://github.com/pronzzz/Wheelhouse/pull/2) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
+4. 💪 Opened PR [#2](https://github.com/pronzzz/Wheelhouse/pull/2) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
 <!--END_SECTION:activity-->
 
 <div align="center"><i>Let's connect and build something amazing together!</i></div>
