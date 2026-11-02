@@ -265,10 +265,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Keelson 1.1.0](https://github.com/pronzzz/keelson/releases/tag/v1.1.0) in [pronzzz/keelson](https://github.com/pronzzz/keelson)
-2. 🚀 Published release [Wheelhouse 1.1.0](https://github.com/pronzzz/Wheelhouse/releases/tag/v1.1.0) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
-3. 🎉 Merged PR [#2](https://github.com/pronzzz/Wheelhouse/pull/2) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
-4. 💪 Opened PR [#2](https://github.com/pronzzz/Wheelhouse/pull/2) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
+1. 🚀 Published release [Inkflow 2.0.0](https://github.com/pronzzz/inkflow/releases/tag/v2.0.0) in [pronzzz/inkflow](https://github.com/pronzzz/inkflow)
+2. 🚀 Published release [Keelson 1.1.0](https://github.com/pronzzz/keelson/releases/tag/v1.1.0) in [pronzzz/keelson](https://github.com/pronzzz/keelson)
+3. 🚀 Published release [Wheelhouse 1.1.0](https://github.com/pronzzz/Wheelhouse/releases/tag/v1.1.0) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
+4. 🎉 Merged PR [#2](https://github.com/pronzzz/Wheelhouse/pull/2) in [pronzzz/Wheelhouse](https://github.com/pronzzz/Wheelhouse)
 <!--END_SECTION:activity-->
 
 <div align="center"><i>Let's connect and build something amazing together!</i></div>
