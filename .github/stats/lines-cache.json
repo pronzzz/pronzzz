@@ -184,8 +184,8 @@
     "removed": 0
   },
   "keelson": {
-    "added": 4910,
-    "removed": 116
+    "added": 5041,
+    "removed": 119
   },
   "kernel-architect": {
     "added": 3906,
@@ -318,6 +318,10 @@
   "simplevault": {
     "added": 1174,
     "removed": 0
+  },
+  "sonar": {
+    "added": 36679,
+    "removed": 751
   },
   "spool": {
     "added": 16723,
