@@ -68,8 +68,8 @@
     "removed": 2
   },
   "booktures": {
-    "added": 13436,
-    "removed": 4476
+    "added": 13464,
+    "removed": 4486
   },
   "braintube": {
     "added": 853,
@@ -84,7 +84,7 @@
     "removed": 0
   },
   "conduit": {
-    "added": 10514,
+    "added": 10529,
     "removed": 1441
   },
   "credit-card-approval-detection": {
@@ -140,8 +140,8 @@
     "removed": 0
   },
   "frankly": {
-    "added": 24839,
-    "removed": 15937
+    "added": 24862,
+    "removed": 15939
   },
   "fuel-effeciency-prediction": {
     "added": 3885,
@@ -156,8 +156,8 @@
     "removed": 1
   },
   "halflight": {
-    "added": 16112,
-    "removed": 5168
+    "added": 16151,
+    "removed": 5170
   },
   "hermitmail": {
     "added": 1462,
@@ -236,8 +236,8 @@
     "removed": 0
   },
   "mozzaic": {
-    "added": 6004,
-    "removed": 1013
+    "added": 6015,
+    "removed": 1014
   },
   "neuronest-mcp": {
     "added": 2730,
@@ -248,8 +248,8 @@
     "removed": 3192
   },
   "parlour": {
-    "added": 14424,
-    "removed": 4898
+    "added": 14438,
+    "removed": 4899
   },
   "pest-prediction-detection": {
     "added": 6025,
@@ -324,8 +324,8 @@
     "removed": 751
   },
   "spool": {
-    "added": 16723,
-    "removed": 9059
+    "added": 16762,
+    "removed": 9064
   },
   "stock_price_prediction": {
     "added": 44935,
@@ -364,12 +364,12 @@
     "removed": 0
   },
   "vernier": {
-    "added": 9337,
-    "removed": 3759
+    "added": 9362,
+    "removed": 3760
   },
   "vernissage": {
-    "added": 0,
-    "removed": 0
+    "added": 21,
+    "removed": 2
   },
   "wasabigit": {
     "added": 438,
