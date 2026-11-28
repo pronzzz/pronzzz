@@ -265,10 +265,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Medha 0.1.0](https://github.com/pronzzz/medha/releases/tag/v0.1.0) in [pronzzz/medha](https://github.com/pronzzz/medha)
-2. 🚀 Published release [Discipline 1.1.0](https://github.com/pronzzz/Discipline/releases/tag/v1.1.0) in [pronzzz/Discipline](https://github.com/pronzzz/Discipline)
-3. 🚀 Published release [Inkflow 2.0.0](https://github.com/pronzzz/inkflow/releases/tag/v2.0.0) in [pronzzz/inkflow](https://github.com/pronzzz/inkflow)
-4. 🚀 Published release [Keelson 1.1.0](https://github.com/pronzzz/keelson/releases/tag/v1.1.0) in [pronzzz/keelson](https://github.com/pronzzz/keelson)
+1. 🚀 Published release [Booktures 2.0.1](https://github.com/pronzzz/booktures/releases/tag/v2.0.1) in [pronzzz/booktures](https://github.com/pronzzz/booktures)
+2. 🚀 Published release [Medha 0.1.0](https://github.com/pronzzz/medha/releases/tag/v0.1.0) in [pronzzz/medha](https://github.com/pronzzz/medha)
+3. 🚀 Published release [Discipline 1.1.0](https://github.com/pronzzz/Discipline/releases/tag/v1.1.0) in [pronzzz/Discipline](https://github.com/pronzzz/Discipline)
+4. 🚀 Published release [Inkflow 2.0.0](https://github.com/pronzzz/inkflow/releases/tag/v2.0.0) in [pronzzz/inkflow](https://github.com/pronzzz/inkflow)
 <!--END_SECTION:activity-->
 
 <div align="center"><i>Let's connect and build something amazing together!</i></div>
